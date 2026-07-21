@@ -16,6 +16,7 @@ Ideal for **job interviews**, **meetings**, **accessibility**, **speech-to-text*
 ![Demo](Demo.gif)
 
 ---
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arellanojeremypaul.live-caption-copilot" />
 
 ## Topics / tags (for GitHub)
 
